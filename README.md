@@ -1,3 +1,6 @@
+#US-Pollution-Data-Analysis#
+
+
 **Overview**
 This repository contains Power BI reports and Excel spreadsheets for analyzing pollution data in the United States. The analysis aims to provide insights into air and water pollution levels, pollutant concentrations, trends over time, and geographic distribution. 
 Power BI is used for visualization and interactive exploration of the data, while Excel is utilized for data manipulation and preprocessing.
